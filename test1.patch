@@ -1,0 +1,19 @@
+Index: src/main/java/Test1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/Test1.java	(date 1575423631651)
++++ src/main/java/Test1.java	(date 1575423631651)
+@@ -0,0 +1,11 @@
++/**
++ * @program: practice
++ * @description: test1
++ * @author: Xiaodong
++ * @date: 2019-12-04 09:39
++ **/
++public class Test1 {
++    public static void main(String[] args) {
++        System.out.println("git");
++    }
++}
