@@ -10,7 +10,6 @@ public class Test1 {
         System.out.println("git");
 
 
-        //这好一个测试
-        System.out.println();
+
     }
 }
